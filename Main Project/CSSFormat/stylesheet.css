@@ -1,0 +1,39 @@
+/*External stylesheet*/
+
+h1
+{   text-shadow: 1px 1px 1px #000000;
+    font-size:200%;color:#F98E01;}
+
+ header {
+        border-bottom: 20px solid #F98E01;
+    }
+body{margin: 10px;}
+
+img {width: 505;}
+
+h3
+{   font-size: 150%; color: black;}
+
+ul li {display: inline;}
+ul p {display: inline;}
+
+ul a {font-size: 150%;
+    text-decoration: none;
+    border: 5px solid #F98E01;
+    border-radius: 1em;
+    padding: 5px;
+    margin-right: 10px;
+    color: black;
+    background-color: #FFFFFF;
+}
+ul p {font-size: 100%;
+    text-decoration: none;
+    border: 5px solid #F98E01;
+    border-radius: 2em;
+    padding: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+margin: 10px;
+    color: black;
+    background-color: #FFFFFF;
+}
